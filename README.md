@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWHPxDsDEJagnvYK4FGYp1bXTlfWQTbqPRvyMyEyL_g&s">
 
-- 🔭 I’m currently working on **A web engine website like pinterest**
+- 🔭 I’m currently working on **A web engine like pinterest**
 
 - 🌱 I’m currently learning **Express.js , React.js , Node.js ,Figma**
 
